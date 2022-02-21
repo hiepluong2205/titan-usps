@@ -18,6 +18,10 @@ public class COVIDTestKitPage {
     WebElement txtShippingLastName;
     @FindBy(xpath = "")
     WebElement txtShippingStreetAddress;
-    public void setShippingDetails(){}
-    public void setContactDetails(){}
+
+    public void setShippingDetails() {
+    }
+
+    public void setContactDetails() {
+    }
 }
